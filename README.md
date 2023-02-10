@@ -68,6 +68,10 @@
 
 * [The Private AI Series](https://courses.openmined.org/)
 
+## Metascience
+
+* [A Vision of Metascienc: An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/index.html)
+
 ## R
 
 * [R Packages](https://r-pkgs.org/index.html)
@@ -75,7 +79,12 @@
 * [When in Doubt, Try to Upgrade Your Software Packages](https://yihui.org/en/2017/05/when-in-doubt-upgrade/)
 * [The R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 * [Advanced R: Debugging](https://adv-r.hadley.nz/debugging.html)
-- [A way to run code before all tests in `testthat`](https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/)
+* [A way to run code before all tests in `testthat`](https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/)
+
+## Python for R users
+
+* [`pandas`: Comparison with R / R libraries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_r.html)
+* [Primer on Python for R Users](https://rstudio.github.io/reticulate/articles/python_primer.html)
 
 ## Git
 
@@ -103,6 +112,8 @@
 
 * [Andrew Gelman](https://statmodeling.stat.columbia.edu/)
 * [Christian Robert](https://xianblog.wordpress.com/)
+* [Dan Simpson](https://dansblog.netlify.app/)
+* [Thomas Lumley](https://notstatschat.rbind.io/)
 * [Jim Savage](https://modernstatisticalworkflow.blogspot.com/)
 * [Population health exchange](https://populationhealthexchange.org/library/podcasts/free-associations/)
 * [Gwern](https://gwern.net/note/statistic)
