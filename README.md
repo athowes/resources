@@ -70,7 +70,7 @@
 
 ## Metascience
 
-* [A Vision of Metascienc: An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/index.html)
+* [A Vision of Metascience: An Engine of Improvement for the Social Processes of Science](https://scienceplusplus.org/metascience/index.html)
 
 ## R
 
