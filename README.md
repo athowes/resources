@@ -24,6 +24,7 @@
 * [Causal Inference: The Mixtape](https://mixtape.scunning.com/)
 * [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/)
 * [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
+* [Evaluating Social Programs Webinar Series (J-PAL)](https://www.povertyactionlab.org/event/evaluating-social-programs-webinar-series)
 
 ## Spatiotemporal statistics
 
@@ -45,6 +46,7 @@
 
 ## General statistics
 
+* [Telling Stories with Data](https://tellingstorieswithdata.com/)
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf)
 * [GAMs in R](https://noamross.github.io/gams-in-r-course/)
 * [João Neto's Markdowns](http://www.di.fc.ul.pt/~jpn/r/)
@@ -80,6 +82,7 @@
 * [The R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 * [Advanced R: Debugging](https://adv-r.hadley.nz/debugging.html)
 * [A way to run code before all tests in `testthat`](https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/)
+* [(Much) Faster Package (Re-)Installation via Caching](https://dirk.eddelbuettel.com/blog/2017/11/27/): use `ccache` to rebuild compiled packages where the source code is unchanged faster
 
 ## Python for R users
 
@@ -150,6 +153,7 @@
 ## Writing
 
 * [Write of Passage](https://writeofpassage.school/)
+* On Writing Well
 
 ## Coding
 
@@ -158,6 +162,7 @@
 
 ## Plots
 
+* Trees, maps, and theorems
 * [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
 * [Using LaTeX plus R plus tikzDevice](https://iltabiai.github.io/tips/latex/2015/09/15/latex-tikzdevice-r.html)
 * [Graphics principles](https://graphicsprinciples.github.io/)
@@ -202,6 +207,10 @@
 
 * [One year to dissertate](https://livefreeordichotomize.com/posts/2018-09-14-one-year-to-dissertate/)
 * [Writing your thesis with bookdown](https://eddjberry.netlify.app/post/writing-your-thesis-with-bookdown/)
+
+## Management
+
+* Managing to Change the World: The Nonprofit Manager's Guide to Getting Results
 
 ## Being rejected
 
