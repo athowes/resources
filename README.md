@@ -16,7 +16,7 @@
 * [Diagnosing Biased Inference with Divergences](https://mc-stan.org/users/documentation/case-studies/divergences_and_bias.html)
 * [Bayesian networks `bnlearn`](https://www.bnlearn.com/)
 
-## Causal methods
+## Causal methods and econometrics
 
 * [Applied Causal Analysis (with R)](https://bookdown.org/paul/applied-causal-analysis/)
 * [Introduction to Causal Inference](https://www.bradyneal.com/causal-inference-course)
@@ -25,6 +25,7 @@
 * [Program Evaluation for Public Service](https://evalf20.classes.andrewheiss.com/)
 * [Literature on Recent Advances in Applied Micro Methods](https://christinecai.github.io/PublicGoods/applied_micro_methods.pdf)
 * [Evaluating Social Programs Webinar Series (J-PAL)](https://www.povertyactionlab.org/event/evaluating-social-programs-webinar-series)
+* [Simultaneous equations model](https://en.wikipedia.org/wiki/Simultaneous_equations_model)
 
 ## Spatiotemporal statistics
 
@@ -39,6 +40,7 @@
 * [Gaussian random fields and correlation functions](https://www.nr.no/directdownload/2437/Abrahamsen_-_A_Review_of_Gaussian_random_fields_and_correlation.pdf)
 * [Modeling Dependent Data: An Excursion](http://user.math.uzh.ch/furrer/download/sta330/script_sta330.pdf)
 * [Gaussian Process Workshop on Spatio-Temporal Modelling, 2014](http://gpss.cc/gpst14/)
+* [Understanding Persistence, Morgan Kelly](https://economics.yale.edu/sites/default/files/understanding_persistence_ada-ns.pdf)
 
 ## Epidemiology
 
@@ -83,6 +85,7 @@
 * [Advanced R: Debugging](https://adv-r.hadley.nz/debugging.html)
 * [A way to run code before all tests in `testthat`](https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/)
 * [(Much) Faster Package (Re-)Installation via Caching](https://dirk.eddelbuettel.com/blog/2017/11/27/): use `ccache` to rebuild compiled packages where the source code is unchanged faster
+* [The `magick` package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
 ## Python for R users
 
