@@ -86,6 +86,7 @@
 * [A way to run code before all tests in `testthat`](https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/)
 * [(Much) Faster Package (Re-)Installation via Caching](https://dirk.eddelbuettel.com/blog/2017/11/27/): use `ccache` to rebuild compiled packages where the source code is unchanged faster
 * [The `magick` package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+* [The hunspell package: High-Performance Stemmer, Tokenizer, and Spell Checker for R](https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html)
 
 ## Python for R users
 
