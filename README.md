@@ -102,6 +102,8 @@
 * [International Virtual Workshop "Introducting R-INLA and Its Applications"](https://www.youtube.com/watch?v=a-unDONKoRw)
 * [Tutorial 3: Bayesian Computing with INLA -- Håvard Rue](https://www.youtube.com/watch?v=LvlnI_PU0Pc)
 * [A Primer on Crashing INLA Models](https://avianecologist.com/2018/05/25/a-primer-on-crashing-inla-models/)
+* [The `group` option, slides by Riebler](https://groups.google.com/g/r-inla-discussion-group/c/cu8DhkgtJGk/m/oum2L_f_BAAJ)
+* [Random slopes models](https://groups.google.com/g/r-inla-discussion-group/c/oEUJh4a6X-U)
 
 ## `TMB`
 
