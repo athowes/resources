@@ -111,6 +111,10 @@
 * [Code snippets](https://github.com/kaskr/adcomp/wiki/Code--snippets)
 * [Guidelines for including `TMB` C++ code in an R package](https://stackoverflow.com/questions/48627069/guidelines-for-including-tmb-c-code-in-an-r-package)
 
+## GLMMs
+
+* [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
+
 ## DIDE Cluster
 
 * [Cluster documentation](https://mrcdata.dide.ic.ac.uk/wiki/index.php/Cluster_Documentation)
