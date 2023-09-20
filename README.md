@@ -86,7 +86,8 @@
 * [A way to run code before all tests in `testthat`](https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/)
 * [(Much) Faster Package (Re-)Installation via Caching](https://dirk.eddelbuettel.com/blog/2017/11/27/): use `ccache` to rebuild compiled packages where the source code is unchanged faster
 * [The `magick` package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
-* [The hunspell package: High-Performance Stemmer, Tokenizer, and Spell Checker for R](https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html)
+* [The `hunspell` package: High-Performance Stemmer, Tokenizer, and Spell Checker for R](https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html)
+* [`styler`](https://github.com/r-lib/styler) and [`lintr`](https://github.com/r-lib/lintr) for code linting
 
 ## Python for R users
 
@@ -104,6 +105,7 @@
 * [A Primer on Crashing INLA Models](https://avianecologist.com/2018/05/25/a-primer-on-crashing-inla-models/)
 * [The `group` option, slides by Riebler](https://groups.google.com/g/r-inla-discussion-group/c/cu8DhkgtJGk/m/oum2L_f_BAAJ)
 * [Random slopes models](https://groups.google.com/g/r-inla-discussion-group/c/oEUJh4a6X-U)
+* [Statistical Rethinking in `R-INLA`](https://akawiecki.github.io/statistical_rethinking_inla/)
 
 ## `TMB`
 
@@ -220,7 +222,9 @@
 
 ## Management
 
-* Managing to Change the World: The Nonprofit Manager's Guide to Getting Results
+* Managing to Change the World: The Nonprofit Manager's Guide to Getting Results by Alison Green and Jerry Hauser
+* The Effective Manager by Mark Horstman
+* [How to manage up using these delegation tips](https://saidtwice.substack.com/p/how-to-manage-up-using-these-delegation)
 
 ## Being rejected
 
