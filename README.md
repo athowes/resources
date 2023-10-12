@@ -233,3 +233,25 @@
 ## Jobs
 
 * [Academic Cover Letters for Statistical Science Faculty Positions](http://drsherrirose.org/academic-cover-letters-for-statistical-science-faculty-positions)
+
+## Other
+
+### Music
+
+* [Every Noise at Once](everynoise.com) can be used to, among other things, browse algorithmically generated playlists for thousands of genres. For example, [here](https://open.spotify.com/playlist/5i3nz8m7XR6D7PUoIchxW8?si=095e9912cf714010) is one for the "Sound of Drumfunk". There are also introductory, current pulse and leading edge versions of each playlist.
+
+### Podcasts
+
+* [Lunar Society](https://www.dwarkeshpatel.com/podcast)
+* [Conversations with Tyler](https://conversationswithtyler.com/)
+* [Heavyweight](https://gimletmedia.com/shows/heavyweight)
+* [99% Invisible](https://99percentinvisible.org/)
+* [80,000 Hours](https://80000hours.org/podcast/)
+
+### YouTube
+
+* [Climate Town](https://www.youtube.com/@ClimateTown)
+* [ContraPoints](https://www.youtube.com/@ContraPoints)
+* [Frame Problems](https://www.youtube.com/@frameproblems5164)
+* [Technology Connections](https://www.youtube.com/@TechnologyConnections)
+* [Soft White Underbelly](https://www.youtube.com/@SoftWhiteUnderbelly)
