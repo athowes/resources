@@ -234,6 +234,17 @@
 
 * [Academic Cover Letters for Statistical Science Faculty Positions](http://drsherrirose.org/academic-cover-letters-for-statistical-science-faculty-positions)
 
+## Productivity
+
+* [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/)
+* [Focusmate](https://www.focusmate.com/)
+* [Ultraworking](https://www.ultraworking.com/cycles)
+* [How to Increase Productivity: The Ultimate Psychological guide](https://cognitiontoday.com/how-to-increase-productivity-the-ultimate-psychological-guide/)
+* [Mental Models: The Best Way to Make Intelligent Decisions](https://fs.blog/mental-models/)
+* [Mental models](http://www.defmacro.org/2016/12/22/models.html)
+* [The Complete Guide to Deep Work](https://blog.doist.com/deep-work/)
+* [Zen Habits](https://www.notion.so/Productivity-1e1c93e86151456cb946b7f6db21dcba?pvs=21)
+
 ## Other
 
 ### Music
