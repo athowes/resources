@@ -41,6 +41,8 @@
 * [Modeling Dependent Data: An Excursion](http://user.math.uzh.ch/furrer/download/sta330/script_sta330.pdf)
 * [Gaussian Process Workshop on Spatio-Temporal Modelling, 2014](http://gpss.cc/gpst14/)
 * [Understanding Persistence, Morgan Kelly](https://economics.yale.edu/sites/default/files/understanding_persistence_ada-ns.pdf)
+* The technical vignettes of Christopher Paciorek: [1](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette1.pdf), [2](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette2.pdf), [3](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette3.pdf), [4](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette4.pdf), [5](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette5.pdf).
+* [`R-INLA` sandbox of Jeff Eaton](https://athowes.github.io/inla-sandbox/)
 
 ## Forecasting and scoring
 
