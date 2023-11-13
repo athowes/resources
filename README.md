@@ -42,6 +42,10 @@
 * [Gaussian Process Workshop on Spatio-Temporal Modelling, 2014](http://gpss.cc/gpst14/)
 * [Understanding Persistence, Morgan Kelly](https://economics.yale.edu/sites/default/files/understanding_persistence_ada-ns.pdf)
 
+## Forecasting and scoring
+
+* [Forecast Scoring and Calibration, Advanced Topics in Statistical Learning, Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/calibration.pdf)
+
 ## Epidemiology
 
 * [Mathematical Epidemiology](https://link.springer.com/book/10.1007%2F978-3-540-78911-6)
