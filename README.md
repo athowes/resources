@@ -186,6 +186,10 @@
 * [Graphics principles](https://graphicsprinciples.github.io/)
 * [Force the origin to start at 0](https://stackoverflow.com/questions/13701347/force-the-origin-to-start-at-0)
 
+## Bibliography
+
+* [BibTeX tidy](https://flamingtempura.github.io/bibtex-tidy)
+
 ## Tables
 
 * [ASCII table generator](https://ozh.github.io/ascii-tables/)
