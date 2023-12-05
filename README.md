@@ -147,6 +147,10 @@
 * [Rohan Alexander](https://www.youtube.com/@RohanPAlexander)
 * [IQSS at Harvard University](https://www.youtube.com/@iqssatharvarduniversity8672)
 
+## Biology
+
+* [Cell Biology by the Numbers](http://book.bionumbers.org/)
+
 ## Not being a computer scientist
 
 * [The missing semester of your CS education](https://missing.csail.mit.edu/)
