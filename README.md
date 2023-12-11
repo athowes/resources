@@ -15,6 +15,7 @@
 * [Typical Sets and the Curse of Dimensionality](https://mc-stan.org/users/documentation/case-studies/curse-dims.html)
 * [Diagnosing Biased Inference with Divergences](https://mc-stan.org/users/documentation/case-studies/divergences_and_bias.html)
 * [Bayesian networks `bnlearn`](https://www.bnlearn.com/)
+* [Posterior $z$-score against contraction plots](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html#Step_Eleven:_Inferential_Calibration88)
 
 ## Causal methods and econometrics
 
