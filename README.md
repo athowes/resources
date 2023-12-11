@@ -8,8 +8,9 @@
 
 ## Bayesian statistics
 
-* [MCMC Algorithms](https://m-clark.github.io/docs/ld_mcmc/)
+* [MCMC Algorithms](https://m-clark.github.io/docs/ld_mcmc/): a directory of MCMC algorithms, including some quite obscure ones, nicely referenced.
 * [Stan best tips and tricks](https://discourse.mc-stan.org/t/n-best-tips-tricks-or-the-go-to-checklist-for-new-stan-model-builders/8688)
+  * Also, look for pull requests made by [Bob Carpenter](https://bob-carpenter.github.io/) (would be good to compile a list of tips from these)
 * [Michael Betancourt](https://betanalpha.github.io/writing/)
 * [Model selection tutorials and talks](https://avehtari.github.io/modelselection/)
 * [Typical Sets and the Curse of Dimensionality](https://mc-stan.org/users/documentation/case-studies/curse-dims.html)
@@ -47,7 +48,7 @@
 
 ## Forecasting and scoring
 
-* [Forecast Scoring and Calibration, Advanced Topics in Statistical Learning, Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/calibration.pdf)
+* [Forecast Scoring and Calibration, Advanced Topics in Statistical Learning, Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/calibration.pdf): some lecture notes on forecasting, mostly drawing from the work of Tilmann Gneiting.
 
 ## Epidemiology
 
@@ -65,7 +66,7 @@
 
 ## Machine learning
 
-* [Surrogates: Gaussian process modeling, design and optimization for the applied sciences](https://bookdown.org/rbg/surrogates/)
+* [Surrogates: Gaussian process modeling, design and optimization for the applied sciences](https://bookdown.org/rbg/surrogates/): a book about Gaussian process emulators, with R code.
 * [Patterns, Predictions, and Actions](https://mlstory.org/)
 * [Deep learning](https://stanford.edu/~shervine/teaching/cs-230/)
 * [Algorithmic Foundations of Learning](http://www.stats.ox.ac.uk/~rebeschi/teaching/AFoL/18/index.html)
@@ -93,7 +94,7 @@
 * [A way to run code before all tests in `testthat`](https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/)
 * [(Much) Faster Package (Re-)Installation via Caching](https://dirk.eddelbuettel.com/blog/2017/11/27/): use `ccache` to rebuild compiled packages where the source code is unchanged faster
 * [The `magick` package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
-* [The `hunspell` package: High-Performance Stemmer, Tokenizer, and Spell Checker for R](https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html)
+* [The `hunspell` package: High-Performance Stemmer, Tokenizer, and Spell Checker for R](https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html): I've found it useful to systematically check written documents in RMarkdown for spelling errors using this package.
 * [`styler`](https://github.com/r-lib/styler) and [`lintr`](https://github.com/r-lib/lintr) for code linting
 
 ## Python for R users
@@ -112,17 +113,18 @@
 * [A Primer on Crashing INLA Models](https://avianecologist.com/2018/05/25/a-primer-on-crashing-inla-models/)
 * [The `group` option, slides by Riebler](https://groups.google.com/g/r-inla-discussion-group/c/cu8DhkgtJGk/m/oum2L_f_BAAJ)
 * [Random slopes models](https://groups.google.com/g/r-inla-discussion-group/c/oEUJh4a6X-U)
-* [Statistical Rethinking in `R-INLA`](https://akawiecki.github.io/statistical_rethinking_inla/)
+* [Statistical Rethinking in `R-INLA`](https://akawiecki.github.io/statistical_rethinking_inla/): a translation of the Statistical Rethinking book homeworks into `R-INLA` (and `tidyverse`)
 
 ## `TMB`
 
 * [The comprehensive TMB documentation](https://kaskr.github.io/adcomp/_book/Introduction.html)
 * [Code snippets](https://github.com/kaskr/adcomp/wiki/Code--snippets)
 * [Guidelines for including `TMB` C++ code in an R package](https://stackoverflow.com/questions/48627069/guidelines-for-including-tmb-c-code-in-an-r-package)
+* [`TMBtools`](https://github.com/mlysy/TMBtools): the package to use for easily developing an R package which includes compiled `TMB` code.
 
 ## GLMMs
 
-* [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html)
+* [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html): from the author of `lme4`.
 
 ## DIDE Cluster
 
@@ -185,7 +187,7 @@
 
 ## Plots
 
-* Trees, maps, and theorems
+* [Trees, maps, and theorems](https://www.principiae.be/X0100.php): book on clear and effective scientific communication.
 * [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
 * [Using LaTeX plus R plus tikzDevice](https://iltabiai.github.io/tips/latex/2015/09/15/latex-tikzdevice-r.html)
 * [Graphics principles](https://graphicsprinciples.github.io/)
@@ -193,7 +195,7 @@
 
 ## Bibliography
 
-* [BibTeX tidy](https://flamingtempura.github.io/bibtex-tidy)
+* [BibTeX tidy](https://flamingtempura.github.io/bibtex-tidy): this webapp will tidy your `.bib` file for you, including finding duplicates.
 
 ## Tables
 
@@ -237,8 +239,8 @@
 
 ## Management
 
-* Managing to Change the World: The Nonprofit Manager's Guide to Getting Results by Alison Green and Jerry Hauser
-* The Effective Manager by Mark Horstman
+* [Managing to Change the World: The Nonprofit Manager's Guide to Getting Results by Alison Green and Jerry Hauser](https://www.goodreads.com/en/book/show/13044641)
+* [The Effective Manager by Mark Horstman](https://www.goodreads.com/book/show/27316166-the-effective-manager?from_search=true&from_srp=true&qid=6UiQyzU5ji&rank=1)
 * [How to manage up using these delegation tips](https://saidtwice.substack.com/p/how-to-manage-up-using-these-delegation)
 
 ## Being rejected
@@ -264,7 +266,7 @@
 
 ### Music
 
-* [Every Noise at Once](everynoise.com) can be used to, among other things, browse algorithmically generated playlists for thousands of genres. For example, [here](https://open.spotify.com/playlist/5i3nz8m7XR6D7PUoIchxW8?si=095e9912cf714010) is one for the "Sound of Drumfunk". There are also introductory, current pulse and leading edge versions of each playlist.
+* [Every Noise at Once](everynoise.com): can be used to, among other things, browse algorithmically generated playlists for thousands of genres. For example, [here](https://open.spotify.com/playlist/5i3nz8m7XR6D7PUoIchxW8?si=095e9912cf714010) is one for the "Sound of Drumfunk". There are also introductory, current pulse and leading edge versions of each playlist.
 
 ### Podcasts
 
