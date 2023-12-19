@@ -36,7 +36,7 @@
 * [Malaria ATLAS podcast](https://podcasts.ox.ac.uk/statistical-methods-used-map-malaria-and-other-infectious-diseases)
 * [Cancer Atlas guide](https://atlas.cancer.org.au/developing-a-cancer-atlas/index.html)
 * [Spatial data](https://rspatial.org/raster/spatial/2-spatialdata.html)
-* [Spatial Data Science with R](https://www.rspatial.org/)
+* [Spatial Data Science with R](https://www.rspatial.org/): and the [book](https://r-spatial.org/book/)
 * [Spatial and spatio-temporal statistics](https://sites.stat.washington.edu/peter/591/)
 * [Forecasting: Principles and Practise](https://otexts.com/fpp2/)
 * [Gaussian random fields and correlation functions](https://www.nr.no/directdownload/2437/Abrahamsen_-_A_Review_of_Gaussian_random_fields_and_correlation.pdf)
