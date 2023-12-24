@@ -121,6 +121,7 @@
 * [Code snippets](https://github.com/kaskr/adcomp/wiki/Code--snippets)
 * [Guidelines for including `TMB` C++ code in an R package](https://stackoverflow.com/questions/48627069/guidelines-for-including-tmb-c-code-in-an-r-package)
 * [`TMBtools`](https://github.com/mlysy/TMBtools): the package to use for easily developing an R package which includes compiled `TMB` code.
+* [Troubleshooting with `glmmTMB`](https://cran.r-project.org/web/packages/glmmTMB/vignettes/troubleshooting.html): many of these troubleshooting tips are applicable not only to `glmmTMB` put to `TMB` more generally.
 
 ## GLMMs
 
