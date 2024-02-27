@@ -136,6 +136,7 @@
 ## Statistics blogs, podcasts, YouTube channels
 
 * [Andrew Gelman](https://statmodeling.stat.columbia.edu/)
+  * [God is in every leaf of every tree](https://statmodeling.stat.columbia.edu/2005/10/06/god_is_in_every/): resonates with my experience doing applied statistics
 * [Christian Robert](https://xianblog.wordpress.com/)
 * [Dan Simpson](https://dansblog.netlify.app/)
 * [Thomas Lumley](https://notstatschat.rbind.io/)
