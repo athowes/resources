@@ -46,6 +46,27 @@
 * The technical vignettes of Christopher Paciorek: [1](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette1.pdf), [2](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette2.pdf), [3](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette3.pdf), [4](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette4.pdf), [5](https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette5.pdf).
 * [`R-INLA` sandbox of Jeff Eaton](https://athowes.github.io/inla-sandbox/)
 
+## `R-INLA`
+
+* [International Virtual Workshop "Introducting R-INLA and Its Applications"](https://www.youtube.com/watch?v=a-unDONKoRw)
+* [Tutorial 3: Bayesian Computing with INLA -- Håvard Rue](https://www.youtube.com/watch?v=LvlnI_PU0Pc)
+* [A Primer on Crashing INLA Models](https://avianecologist.com/2018/05/25/a-primer-on-crashing-inla-models/)
+* [The `group` option, slides by Riebler](https://groups.google.com/g/r-inla-discussion-group/c/cu8DhkgtJGk/m/oum2L_f_BAAJ)
+* [Random slopes models](https://groups.google.com/g/r-inla-discussion-group/c/oEUJh4a6X-U)
+* [Statistical Rethinking in `R-INLA`](https://akawiecki.github.io/statistical_rethinking_inla/): a translation of the Statistical Rethinking book homeworks into `R-INLA` (and `tidyverse`)
+
+## `TMB`
+
+* [The comprehensive TMB documentation](https://kaskr.github.io/adcomp/_book/Introduction.html)
+* [Code snippets](https://github.com/kaskr/adcomp/wiki/Code--snippets)
+* [Guidelines for including `TMB` C++ code in an R package](https://stackoverflow.com/questions/48627069/guidelines-for-including-tmb-c-code-in-an-r-package)
+* [`TMBtools`](https://github.com/mlysy/TMBtools): the package to use for easily developing an R package which includes compiled `TMB` code.
+* [Troubleshooting with `glmmTMB`](https://cran.r-project.org/web/packages/glmmTMB/vignettes/troubleshooting.html): many of these troubleshooting tips are applicable not only to `glmmTMB` put to `TMB` more generally.
+
+## GLMMs
+
+* [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html): from the author of `lme4`.
+
 ## Forecasting and scoring
 
 * [Forecast Scoring and Calibration, Advanced Topics in Statistical Learning, Ryan Tibshirani](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/calibration.pdf): some lecture notes on forecasting, mostly drawing from the work of Tilmann Gneiting.
@@ -92,6 +113,7 @@
 * [The R Inferno](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf)
 * [Advanced R: Debugging](https://adv-r.hadley.nz/debugging.html)
 * [A way to run code before all tests in `testthat`](https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/)
+* [Ways to reuse `roxygen2` documentation](https://cran.r-project.org/web/packages/roxygen2/vignettes/reuse.html)
 * [(Much) Faster Package (Re-)Installation via Caching](https://dirk.eddelbuettel.com/blog/2017/11/27/): use `ccache` to rebuild compiled packages where the source code is unchanged faster
 * [The `magick` package: Advanced Image-Processing in R](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 * [The `hunspell` package: High-Performance Stemmer, Tokenizer, and Spell Checker for R](https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html): I've found it useful to systematically check written documents in RMarkdown for spelling errors using this package.
@@ -105,27 +127,6 @@
 ## Git
 
 * [Git handout](http://www.tmpl.fi/githandout.pdf)
-
-## `R-INLA`
-
-* [International Virtual Workshop "Introducting R-INLA and Its Applications"](https://www.youtube.com/watch?v=a-unDONKoRw)
-* [Tutorial 3: Bayesian Computing with INLA -- Håvard Rue](https://www.youtube.com/watch?v=LvlnI_PU0Pc)
-* [A Primer on Crashing INLA Models](https://avianecologist.com/2018/05/25/a-primer-on-crashing-inla-models/)
-* [The `group` option, slides by Riebler](https://groups.google.com/g/r-inla-discussion-group/c/cu8DhkgtJGk/m/oum2L_f_BAAJ)
-* [Random slopes models](https://groups.google.com/g/r-inla-discussion-group/c/oEUJh4a6X-U)
-* [Statistical Rethinking in `R-INLA`](https://akawiecki.github.io/statistical_rethinking_inla/): a translation of the Statistical Rethinking book homeworks into `R-INLA` (and `tidyverse`)
-
-## `TMB`
-
-* [The comprehensive TMB documentation](https://kaskr.github.io/adcomp/_book/Introduction.html)
-* [Code snippets](https://github.com/kaskr/adcomp/wiki/Code--snippets)
-* [Guidelines for including `TMB` C++ code in an R package](https://stackoverflow.com/questions/48627069/guidelines-for-including-tmb-c-code-in-an-r-package)
-* [`TMBtools`](https://github.com/mlysy/TMBtools): the package to use for easily developing an R package which includes compiled `TMB` code.
-* [Troubleshooting with `glmmTMB`](https://cran.r-project.org/web/packages/glmmTMB/vignettes/troubleshooting.html): many of these troubleshooting tips are applicable not only to `glmmTMB` put to `TMB` more generally.
-
-## GLMMs
-
-* [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html): from the author of `lme4`.
 
 ## DIDE Cluster
 
@@ -151,6 +152,7 @@
 * [OATML research group](https://www.youtube.com/@oatmlresearchgroup9874)
 * [Rohan Alexander](https://www.youtube.com/@RohanPAlexander)
 * [IQSS at Harvard University](https://www.youtube.com/@iqssatharvarduniversity8672)
+* [Ten Statistical Ideas that Changed the World (Hastie and Tibshirani)](https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r)
 
 ## Biology
 
@@ -277,6 +279,7 @@
 * [Heavyweight](https://gimletmedia.com/shows/heavyweight)
 * [99% Invisible](https://99percentinvisible.org/)
 * [80,000 Hours](https://80000hours.org/podcast/)
+* [Acquired](https://www.acquired.fm/)
 
 ### YouTube
 
