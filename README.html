@@ -354,26 +354,20 @@ display: none;
 
 <div id="resources" class="section level1">
 <h1>Resources</h1>
-<div id="kernel-methods" class="section level2">
-<h2>Kernel methods</h2>
-<ul>
-<li><a href="http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html">Reproducing
-kernel Hilbert spaces in Machine Learning</a></li>
-<li><a href="http://users.umiacs.umd.edu/~hal/docs/daume04rkhs.pdf">From
-Zero to Reproducing Kernel Hilbert Spaces in Twelve Pages or
-Less</a></li>
-<li><a href="http://www.cs.toronto.edu/~duvenaud/cookbook/">Kernel
-cookbook</a></li>
-</ul>
-</div>
-<div id="bayesian-statistics" class="section level2">
-<h2>Bayesian statistics</h2>
+<div id="statistics" class="section level2">
+<h2>Statistics</h2>
+<div id="bayesian-statistics" class="section level3">
+<h3>Bayesian statistics</h3>
 <ul>
 <li><a href="https://m-clark.github.io/docs/ld_mcmc/">MCMC
 Algorithms</a>: a directory of MCMC algorithms, including some quite
 obscure ones, nicely referenced.</li>
 <li><a href="https://discourse.mc-stan.org/t/n-best-tips-tricks-or-the-go-to-checklist-for-new-stan-model-builders/8688">Stan
-best tips and tricks</a></li>
+best tips and tricks</a>
+<ul>
+<li>Also, look for pull requests made by <a href="https://bob-carpenter.github.io/">Bob Carpenter</a> (would be good
+to compile a list of tips from these)</li>
+</ul></li>
 <li><a href="https://betanalpha.github.io/writing/">Michael
 Betancourt</a></li>
 <li><a href="https://avehtari.github.io/modelselection/">Model selection
@@ -385,12 +379,23 @@ Biased Inference with Divergences</a></li>
 <li><a href="https://www.bnlearn.com/">Bayesian networks
 <code>bnlearn</code></a></li>
 <li><a href="https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html#Step_Eleven:_Inferential_Calibration88">Posterior
-<span class="math inline">\(z\)</span>-score against contraction
-plots</a></li>
+z-score against contraction plots</a></li>
 </ul>
 </div>
-<div id="causal-methods-and-econometrics" class="section level2">
-<h2>Causal methods and econometrics</h2>
+<div id="kernel-methods" class="section level3">
+<h3>Kernel methods</h3>
+<ul>
+<li><a href="http://www.gatsby.ucl.ac.uk/~gretton/coursefiles/rkhscourse.html">Reproducing
+kernel Hilbert spaces in Machine Learning</a></li>
+<li><a href="http://users.umiacs.umd.edu/~hal/docs/daume04rkhs.pdf">From
+Zero to Reproducing Kernel Hilbert Spaces in Twelve Pages or
+Less</a></li>
+<li><a href="http://www.cs.toronto.edu/~duvenaud/cookbook/">Kernel
+cookbook</a></li>
+</ul>
+</div>
+<div id="causal-methods-and-econometrics" class="section level3">
+<h3>Causal methods and econometrics</h3>
 <ul>
 <li><a href="https://bookdown.org/paul/applied-causal-analysis/">Applied
 Causal Analysis (with R)</a></li>
@@ -410,8 +415,8 @@ Social Programs Webinar Series (J-PAL)</a></li>
 equations model</a></li>
 </ul>
 </div>
-<div id="spatiotemporal-statistics" class="section level2">
-<h2>Spatiotemporal statistics</h2>
+<div id="spatiotemporal-statistics" class="section level3">
+<h3>Spatiotemporal statistics</h3>
 <ul>
 <li><a href="https://www.paulamoraga.com/book-geospatial/">Geospatial
 Health Data: Modeling and Visualization with R-INLA and Shiny</a></li>
@@ -423,8 +428,8 @@ ATLAS podcast</a></li>
 Atlas guide</a></li>
 <li><a href="https://rspatial.org/raster/spatial/2-spatialdata.html">Spatial
 data</a></li>
-<li><a href="https://www.rspatial.org/">Spatial Data Science with
-R</a></li>
+<li><a href="https://www.rspatial.org/">Spatial Data Science with R</a>:
+and the <a href="https://r-spatial.org/book/">book</a></li>
 <li><a href="https://sites.stat.washington.edu/peter/591/">Spatial and
 spatio-temporal statistics</a></li>
 <li><a href="https://otexts.com/fpp2/">Forecasting: Principles and
@@ -442,12 +447,10 @@ Persistence, Morgan Kelly</a></li>
 <a href="https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette3.pdf">3</a>,
 <a href="https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette4.pdf">4</a>,
 <a href="https://www.stat.berkeley.edu/~paciorek/research/techVignettes/techVignette5.pdf">5</a>.</li>
-<li><a href="https://athowes.github.io/inla-sandbox/"><code>R-INLA</code>
-sandbox of Jeff Eaton</a></li>
 </ul>
 </div>
-<div id="forecasting-and-scoring" class="section level2">
-<h2>Forecasting and scoring</h2>
+<div id="forecasting-and-scoring" class="section level3">
+<h3>Forecasting and scoring</h3>
 <ul>
 <li><a href="https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/calibration.pdf">Forecast
 Scoring and Calibration, Advanced Topics in Statistical Learning, Ryan
@@ -455,15 +458,16 @@ Tibshirani</a>: some lecture notes on forecasting, mostly drawing from
 the work of Tilmann Gneiting.</li>
 </ul>
 </div>
-<div id="epidemiology" class="section level2">
-<h2>Epidemiology</h2>
+<div id="glmms" class="section level3">
+<h3>GLMMs</h3>
 <ul>
-<li><a href="https://link.springer.com/book/10.1007%2F978-3-540-78911-6">Mathematical
-Epidemiology</a></li>
+<li><a href="https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html">Ben
+Bolker’s GLMM FAQ</a>: from the author of <code>lme4</code>.</li>
 </ul>
 </div>
-<div id="general-statistics" class="section level2">
-<h2>General statistics</h2>
+</div>
+<div id="general" class="section level2">
+<h2>General</h2>
 <ul>
 <li><a href="https://tellingstorieswithdata.com/">Telling Stories with
 Data</a></li>
@@ -480,9 +484,8 @@ Paradox</a></li>
 <li><a href="http://www.statslab.cam.ac.uk/~nickl/Site/__files/stat2013.pdf">Statistical
 theory</a></li>
 </ul>
-</div>
-<div id="machine-learning" class="section level2">
-<h2>Machine learning</h2>
+<div id="machine-learning" class="section level3">
+<h3>Machine learning</h3>
 <ul>
 <li><a href="https://bookdown.org/rbg/surrogates/">Surrogates: Gaussian
 process modeling, design and optimization for the applied sciences</a>:
@@ -505,121 +508,15 @@ Representation Learning</a></li>
 Topics in Statistical Machine Learning</a></li>
 </ul>
 </div>
-<div id="privacy" class="section level2">
-<h2>Privacy</h2>
+<div id="blogs-podcasts-youtube-channels" class="section level3">
+<h3>Blogs, podcasts, YouTube channels</h3>
 <ul>
-<li><a href="https://courses.openmined.org/">The Private AI
-Series</a></li>
-</ul>
-</div>
-<div id="metascience" class="section level2">
-<h2>Metascience</h2>
+<li><a href="https://statmodeling.stat.columbia.edu/">Andrew Gelman</a>
 <ul>
-<li><a href="https://scienceplusplus.org/metascience/index.html">A
-Vision of Metascience: An Engine of Improvement for the Social Processes
-of Science</a></li>
-</ul>
-</div>
-<div id="r" class="section level2">
-<h2>R</h2>
-<ul>
-<li><a href="https://r-pkgs.org/index.html">R Packages</a></li>
-<li><a href="https://kbroman.org/pkg_primer/">R package primer</a></li>
-<li><a href="https://yihui.org/en/2017/05/when-in-doubt-upgrade/">When
-in Doubt, Try to Upgrade Your Software Packages</a></li>
-<li><a href="https://www.burns-stat.com/pages/Tutor/R_inferno.pdf">The R
-Inferno</a></li>
-<li><a href="https://adv-r.hadley.nz/debugging.html">Advanced R:
-Debugging</a></li>
-<li><a href="https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/">A
-way to run code before all tests in <code>testthat</code></a></li>
-<li><a href="https://dirk.eddelbuettel.com/blog/2017/11/27/">(Much)
-Faster Package (Re-)Installation via Caching</a>: use
-<code>ccache</code> to rebuild compiled packages where the source code
-is unchanged faster</li>
-<li><a href="https://cran.r-project.org/web/packages/magick/vignettes/intro.html">The
-<code>magick</code> package: Advanced Image-Processing in R</a></li>
-<li><a href="https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html">The
-<code>hunspell</code> package: High-Performance Stemmer, Tokenizer, and
-Spell Checker for R</a>: I’ve found it useful to systematically check
-written documents in RMarkdown for spelling errors using this
-package.</li>
-<li><a href="https://github.com/r-lib/styler"><code>styler</code></a>
-and <a href="https://github.com/r-lib/lintr"><code>lintr</code></a> for
-code linting</li>
-</ul>
-</div>
-<div id="python-for-r-users" class="section level2">
-<h2>Python for R users</h2>
-<ul>
-<li><a href="https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_r.html"><code>pandas</code>:
-Comparison with R / R libraries</a></li>
-<li><a href="https://rstudio.github.io/reticulate/articles/python_primer.html">Primer
-on Python for R Users</a></li>
-</ul>
-</div>
-<div id="git" class="section level2">
-<h2>Git</h2>
-<ul>
-<li><a href="http://www.tmpl.fi/githandout.pdf">Git handout</a></li>
-</ul>
-</div>
-<div id="r-inla" class="section level2">
-<h2><code>R-INLA</code></h2>
-<ul>
-<li><a href="https://www.youtube.com/watch?v=a-unDONKoRw">International
-Virtual Workshop “Introducting R-INLA and Its Applications”</a></li>
-<li><a href="https://www.youtube.com/watch?v=LvlnI_PU0Pc">Tutorial 3:
-Bayesian Computing with INLA – Håvard Rue</a></li>
-<li><a href="https://avianecologist.com/2018/05/25/a-primer-on-crashing-inla-models/">A
-Primer on Crashing INLA Models</a></li>
-<li><a href="https://groups.google.com/g/r-inla-discussion-group/c/cu8DhkgtJGk/m/oum2L_f_BAAJ">The
-<code>group</code> option, slides by Riebler</a></li>
-<li><a href="https://groups.google.com/g/r-inla-discussion-group/c/oEUJh4a6X-U">Random
-slopes models</a></li>
-<li><a href="https://akawiecki.github.io/statistical_rethinking_inla/">Statistical
-Rethinking in <code>R-INLA</code></a>: a translation of the Statistical
-Rethinking book homeworks into <code>R-INLA</code> (and
-<code>tidyverse</code>)</li>
-</ul>
-</div>
-<div id="tmb" class="section level2">
-<h2><code>TMB</code></h2>
-<ul>
-<li><a href="https://kaskr.github.io/adcomp/_book/Introduction.html">The
-comprehensive TMB documentation</a></li>
-<li><a href="https://github.com/kaskr/adcomp/wiki/Code--snippets">Code
-snippets</a></li>
-<li><a href="https://stackoverflow.com/questions/48627069/guidelines-for-including-tmb-c-code-in-an-r-package">Guidelines
-for including <code>TMB</code> C++ code in an R package</a></li>
-<li><a href="https://github.com/mlysy/TMBtools"><code>TMBtools</code></a>: the
-package to use for easily developing an R package which includes
-compiled <code>TMB</code> code.</li>
-</ul>
-</div>
-<div id="glmms" class="section level2">
-<h2>GLMMs</h2>
-<ul>
-<li><a href="https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html">Ben
-Bolker’s GLMM FAQ</a>: from the author of <code>lme4</code>.</li>
-</ul>
-</div>
-<div id="dide-cluster" class="section level2">
-<h2>DIDE Cluster</h2>
-<ul>
-<li><a href="https://mrcdata.dide.ic.ac.uk/wiki/index.php/Cluster_Documentation">Cluster
-documentation</a></li>
-<li><a href="https://mrc-ide.github.io/didehpc/articles/quickstart.html">Quickstart
-for R and the DIDE cluster</a></li>
-<li><a href="https://github.com/jeffeaton/eppasm-rhybrid-paper/blob/fd1b9ed7e2256e5bf4165a33b76b7ed7447ddee7/fits/fits.R">Example
-of <code>lapply</code> workflow</a></li>
-</ul>
-</div>
-<div id="statistics-blogs-podcasts-youtube-channels" class="section level2">
-<h2>Statistics blogs, podcasts, YouTube channels</h2>
-<ul>
-<li><a href="https://statmodeling.stat.columbia.edu/">Andrew
-Gelman</a></li>
+<li><a href="https://statmodeling.stat.columbia.edu/2005/10/06/god_is_in_every/">God
+is in every leaf of every tree</a>: resonates with my experience doing
+applied statistics</li>
+</ul></li>
 <li><a href="https://xianblog.wordpress.com/">Christian Robert</a></li>
 <li><a href="https://dansblog.netlify.app/">Dan Simpson</a></li>
 <li><a href="https://notstatschat.rbind.io/">Thomas Lumley</a></li>
@@ -644,17 +541,147 @@ research group</a></li>
 Alexander</a></li>
 <li><a href="https://www.youtube.com/@iqssatharvarduniversity8672">IQSS
 at Harvard University</a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLt_pNkbycxqahVksaNnjz3M6759xHIZ-r">Ten
+Statistical Ideas that Changed the World (Hastie and
+Tibshirani)</a></li>
 </ul>
 </div>
-<div id="biology" class="section level2">
-<h2>Biology</h2>
+</div>
+<div id="software" class="section level2">
+<h2>Software</h2>
+<div id="r" class="section level3">
+<h3>R</h3>
+<ul>
+<li><a href="https://r-pkgs.org/index.html">R Packages</a></li>
+<li><a href="https://kbroman.org/pkg_primer/">R package primer</a></li>
+<li><a href="https://yihui.org/en/2017/05/when-in-doubt-upgrade/">When
+in Doubt, Try to Upgrade Your Software Packages</a></li>
+<li><a href="https://www.burns-stat.com/pages/Tutor/R_inferno.pdf">The R
+Inferno</a></li>
+<li><a href="https://adv-r.hadley.nz/debugging.html">Advanced R:
+Debugging</a></li>
+<li><a href="https://www.r-bloggers.com/2020/11/helper-code-and-files-for-your-testthat-tests/">A
+way to run code before all tests in <code>testthat</code></a></li>
+<li><a href="https://cran.r-project.org/web/packages/roxygen2/vignettes/reuse.html">Ways
+to reuse <code>roxygen2</code> documentation</a></li>
+<li><a href="https://dirk.eddelbuettel.com/blog/2017/11/27/">(Much)
+Faster Package (Re-)Installation via Caching</a>: use
+<code>ccache</code> to rebuild compiled packages where the source code
+is unchanged faster</li>
+<li><a href="https://cran.r-project.org/web/packages/magick/vignettes/intro.html">The
+<code>magick</code> package: Advanced Image-Processing in R</a></li>
+<li><a href="https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html">The
+<code>hunspell</code> package: High-Performance Stemmer, Tokenizer, and
+Spell Checker for R</a>: I’ve found it useful to systematically check
+written documents in RMarkdown for spelling errors using this
+package.</li>
+<li><a href="https://github.com/r-lib/styler"><code>styler</code></a>
+and <a href="https://github.com/r-lib/lintr"><code>lintr</code></a> for
+code linting</li>
+</ul>
+</div>
+<div id="python-for-r-users" class="section level3">
+<h3>Python for R users</h3>
+<ul>
+<li><a href="https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_r.html"><code>pandas</code>:
+Comparison with R / R libraries</a></li>
+<li><a href="https://rstudio.github.io/reticulate/articles/python_primer.html">Primer
+on Python for R Users</a></li>
+</ul>
+</div>
+<div id="git" class="section level3">
+<h3>Git</h3>
+<ul>
+<li><a href="http://www.tmpl.fi/githandout.pdf">Git handout</a></li>
+</ul>
+</div>
+<div id="dide-cluster" class="section level3">
+<h3>DIDE Cluster</h3>
+<ul>
+<li><a href="https://mrcdata.dide.ic.ac.uk/wiki/index.php/Cluster_Documentation">Cluster
+documentation</a></li>
+<li><a href="https://mrc-ide.github.io/didehpc/articles/quickstart.html">Quickstart
+for R and the DIDE cluster</a></li>
+<li><a href="https://github.com/jeffeaton/eppasm-rhybrid-paper/blob/fd1b9ed7e2256e5bf4165a33b76b7ed7447ddee7/fits/fits.R">Example
+of <code>lapply</code> workflow</a></li>
+</ul>
+</div>
+<div id="r-inla" class="section level3">
+<h3><code>R-INLA</code></h3>
+<ul>
+<li><a href="https://athowes.github.io/inla-sandbox/"><code>R-INLA</code>
+sandbox of Jeff Eaton</a></li>
+<li><a href="https://www.youtube.com/watch?v=a-unDONKoRw">International
+Virtual Workshop “Introducting R-INLA and Its Applications”</a></li>
+<li><a href="https://www.youtube.com/watch?v=LvlnI_PU0Pc">Tutorial 3:
+Bayesian Computing with INLA – Håvard Rue</a></li>
+<li><a href="https://avianecologist.com/2018/05/25/a-primer-on-crashing-inla-models/">A
+Primer on Crashing INLA Models</a></li>
+<li><a href="https://groups.google.com/g/r-inla-discussion-group/c/cu8DhkgtJGk/m/oum2L_f_BAAJ">The
+<code>group</code> option, slides by Riebler</a></li>
+<li><a href="https://groups.google.com/g/r-inla-discussion-group/c/oEUJh4a6X-U">Random
+slopes models</a></li>
+<li><a href="https://akawiecki.github.io/statistical_rethinking_inla/">Statistical
+Rethinking in <code>R-INLA</code></a>: a translation of the Statistical
+Rethinking book homeworks into <code>R-INLA</code> (and
+<code>tidyverse</code>)</li>
+</ul>
+</div>
+<div id="tmb" class="section level3">
+<h3><code>TMB</code></h3>
+<ul>
+<li><a href="https://kaskr.github.io/adcomp/_book/Introduction.html">The
+comprehensive TMB documentation</a></li>
+<li><a href="https://github.com/kaskr/adcomp/wiki/Code--snippets">Code
+snippets</a></li>
+<li><a href="https://stackoverflow.com/questions/48627069/guidelines-for-including-tmb-c-code-in-an-r-package">Guidelines
+for including <code>TMB</code> C++ code in an R package</a></li>
+<li><a href="https://github.com/mlysy/TMBtools"><code>TMBtools</code></a>: the
+package to use for easily developing an R package which includes
+compiled <code>TMB</code> code.</li>
+<li><a href="https://cran.r-project.org/web/packages/glmmTMB/vignettes/troubleshooting.html">Troubleshooting
+with <code>glmmTMB</code></a>: many of these troubleshooting tips are
+applicable not only to <code>glmmTMB</code> put to <code>TMB</code> more
+generally.</li>
+</ul>
+</div>
+</div>
+<div id="domain" class="section level2">
+<h2>Domain</h2>
+<div id="epidemiology" class="section level3">
+<h3>Epidemiology</h3>
+<ul>
+<li><a href="https://link.springer.com/book/10.1007%2F978-3-540-78911-6">Mathematical
+Epidemiology</a></li>
+</ul>
+</div>
+<div id="biology" class="section level3">
+<h3>Biology</h3>
 <ul>
 <li><a href="http://book.bionumbers.org/">Cell Biology by the
 Numbers</a></li>
 </ul>
 </div>
-<div id="not-being-a-computer-scientist" class="section level2">
-<h2>Not being a computer scientist</h2>
+<div id="privacy" class="section level3">
+<h3>Privacy</h3>
+<ul>
+<li><a href="https://courses.openmined.org/">The Private AI
+Series</a></li>
+</ul>
+</div>
+<div id="metascience" class="section level3">
+<h3>Metascience</h3>
+<ul>
+<li><a href="https://scienceplusplus.org/metascience/index.html">A
+Vision of Metascience: An Engine of Improvement for the Social Processes
+of Science</a></li>
+</ul>
+</div>
+</div>
+<div id="other" class="section level2">
+<h2>Other</h2>
+<div id="not-being-a-computer-scientist" class="section level3">
+<h3>Not being a computer scientist</h3>
 <ul>
 <li><a href="https://missing.csail.mit.edu/">The missing semester of
 your CS education</a></li>
@@ -666,8 +693,8 @@ Introduction to Computer Science</a></li>
 Thinking: all are based on LeetCode problems</a></li>
 </ul>
 </div>
-<div id="free-things" class="section level2">
-<h2>Free things</h2>
+<div id="free-things" class="section level3">
+<h3>Free things</h3>
 <ul>
 <li><a href="https://education.github.com/pack/offers">GitHub Student
 Developer Pack</a></li>
@@ -675,36 +702,36 @@ Developer Pack</a></li>
 Studio Dev Essentials</a></li>
 </ul>
 </div>
-<div id="calculators" class="section level2">
-<h2>Calculators</h2>
+<div id="calculators" class="section level3">
+<h3>Calculators</h3>
 <ul>
 <li><a href="http://www.matrixcalculus.org/">Matrix calculus</a></li>
 <li><a href="https://www.desmos.com/calculator">Desmos graphing
 calculator</a></li>
 </ul>
 </div>
-<div id="typing" class="section level2">
-<h2>Typing</h2>
+<div id="typing" class="section level3">
+<h3>Typing</h3>
 <ul>
 <li><a href="https://www.keybr.com/">Typing practise</a></li>
 </ul>
 </div>
-<div id="writing" class="section level2">
-<h2>Writing</h2>
+<div id="writing" class="section level3">
+<h3>Writing</h3>
 <ul>
 <li><a href="https://writeofpassage.school/">Write of Passage</a></li>
 <li>On Writing Well</li>
 </ul>
 </div>
-<div id="coding" class="section level2">
-<h2>Coding</h2>
+<div id="coding" class="section level3">
+<h3>Coding</h3>
 <ul>
 <li><a href="https://learn.datacamp.com/">DataCamp</a></li>
 <li><a href="https://www.hackerrank.com/">HackerRank</a></li>
 </ul>
 </div>
-<div id="plots" class="section level2">
-<h2>Plots</h2>
+<div id="plots" class="section level3">
+<h3>Plots</h3>
 <ul>
 <li><a href="https://www.principiae.be/X0100.php">Trees, maps, and
 theorems</a>: book on clear and effective scientific communication.</li>
@@ -718,57 +745,57 @@ principles</a></li>
 the origin to start at 0</a></li>
 </ul>
 </div>
-<div id="bibliography" class="section level2">
-<h2>Bibliography</h2>
+<div id="bibliography" class="section level3">
+<h3>Bibliography</h3>
 <ul>
 <li><a href="https://flamingtempura.github.io/bibtex-tidy">BibTeX
 tidy</a>: this webapp will tidy your <code>.bib</code> file for you,
 including finding duplicates.</li>
 </ul>
 </div>
-<div id="tables" class="section level2">
-<h2>Tables</h2>
+<div id="tables" class="section level3">
+<h3>Tables</h3>
 <ul>
 <li><a href="https://ozh.github.io/ascii-tables/">ASCII table
 generator</a></li>
 </ul>
 </div>
-<div id="templates" class="section level2">
-<h2>Templates</h2>
+<div id="templates" class="section level3">
+<h3>Templates</h3>
 <ul>
 <li><a href="https://prettydoc.statr.me/">prettydoc</a></li>
 <li><a href="https://ulyngs.github.io/oxforddown/">oxforddown</a></li>
 </ul>
 </div>
-<div id="colours" class="section level2">
-<h2>Colours</h2>
+<div id="colours" class="section level3">
+<h3>Colours</h3>
 <ul>
 <li><a href="https://personal.sron.nl/~pault/">Paul Tol’s Notes: Colour
 schemes and templates</a></li>
 </ul>
 </div>
-<div id="latex" class="section level2">
-<h2>LaTeX</h2>
+<div id="latex" class="section level3">
+<h3>LaTeX</h3>
 <ul>
 <li><a href="http://www.personal.ceu.hu/tex/counters.htm">LaTeX
 counters</a></li>
 </ul>
 </div>
-<div id="tikz" class="section level2">
-<h2>TikZ</h2>
+<div id="tikz" class="section level3">
+<h3>TikZ</h3>
 <ul>
 <li><a href="https://tikzit.github.io/">TikZiT</a></li>
 </ul>
 </div>
-<div id="reproducible-research" class="section level2">
-<h2>Reproducible research</h2>
+<div id="reproducible-research" class="section level3">
+<h3>Reproducible research</h3>
 <ul>
 <li><a href="https://the-turing-way.netlify.app/welcome">The Turing
 Way</a></li>
 </ul>
 </div>
-<div id="publishing" class="section level2">
-<h2>Publishing</h2>
+<div id="publishing" class="section level3">
+<h3>Publishing</h3>
 <ul>
 <li><a href="https://trevorcampbell.me/html/arxiv.html">Uploading a
 paper to arXiv.org</a>: note here that Trevor Campbell has a section on
@@ -776,8 +803,8 @@ his website for “common questions advisees” have. This seems like a very
 good idea to me.</li>
 </ul>
 </div>
-<div id="phd-and-school-advice" class="section level2">
-<h2>PhD and school advice</h2>
+<div id="phd-and-school-advice" class="section level3">
+<h3>PhD and school advice</h3>
 <ul>
 <li><a href="https://pg.ucsd.edu/early-stage-PhD-advice.htm">Advice for
 early-stage Ph.D. students</a></li>
@@ -787,8 +814,8 @@ for Research and a PhD</a></li>
 well in your courses</a></li>
 </ul>
 </div>
-<div id="dissertation-writing" class="section level2">
-<h2>Dissertation writing</h2>
+<div id="dissertation-writing" class="section level3">
+<h3>Dissertation writing</h3>
 <ul>
 <li><a href="https://livefreeordichotomize.com/posts/2018-09-14-one-year-to-dissertate/">One
 year to dissertate</a></li>
@@ -796,8 +823,8 @@ year to dissertate</a></li>
 your thesis with bookdown</a></li>
 </ul>
 </div>
-<div id="management" class="section level2">
-<h2>Management</h2>
+<div id="management" class="section level3">
+<h3>Management</h3>
 <ul>
 <li><a href="https://www.goodreads.com/en/book/show/13044641">Managing
 to Change the World: The Nonprofit Manager’s Guide to Getting Results by
@@ -808,21 +835,21 @@ Effective Manager by Mark Horstman</a></li>
 to manage up using these delegation tips</a></li>
 </ul>
 </div>
-<div id="being-rejected" class="section level2">
-<h2>Being rejected</h2>
+<div id="being-rejected" class="section level3">
+<h3>Being rejected</h3>
 <ul>
 <li><a href="https://github.com/ArthurSpirling/Rejection/blob/master/essay.md">Rejection</a></li>
 </ul>
 </div>
-<div id="jobs" class="section level2">
-<h2>Jobs</h2>
+<div id="jobs" class="section level3">
+<h3>Jobs</h3>
 <ul>
 <li><a href="http://drsherrirose.org/academic-cover-letters-for-statistical-science-faculty-positions">Academic
 Cover Letters for Statistical Science Faculty Positions</a></li>
 </ul>
 </div>
-<div id="productivity" class="section level2">
-<h2>Productivity</h2>
+<div id="productivity" class="section level3">
+<h3>Productivity</h3>
 <ul>
 <li><a href="https://hamberg.no/gtd/">GTD in 15 minutes – A Pragmatic
 Guide to Getting Things Done</a></li>
@@ -840,8 +867,9 @@ Deep Work</a></li>
 Habits</a></li>
 </ul>
 </div>
-<div id="other" class="section level2">
-<h2>Other</h2>
+</div>
+<div id="unrelated" class="section level2">
+<h2>Unrelated</h2>
 <div id="music" class="section level3">
 <h3>Music</h3>
 <ul>
@@ -862,6 +890,7 @@ Tyler</a></li>
 <li><a href="https://gimletmedia.com/shows/heavyweight">Heavyweight</a></li>
 <li><a href="https://99percentinvisible.org/">99% Invisible</a></li>
 <li><a href="https://80000hours.org/podcast/">80,000 Hours</a></li>
+<li><a href="https://www.acquired.fm/">Acquired</a></li>
 </ul>
 </div>
 <div id="youtube" class="section level3">
