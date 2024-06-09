@@ -155,6 +155,7 @@
 ### Biology
 
 * [Cell Biology by the Numbers](http://book.bionumbers.org/)
+* [Decoding Genomes](https://decodinggenomes.org/)
 
 ### Privacy
 
