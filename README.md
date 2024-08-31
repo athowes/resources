@@ -56,6 +56,10 @@
 * [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html): from the author of `lme4`.
 * [Ben Bolker's introduction to GLMMs in the context of ecological data](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(09)00019-6): Maybe a bit old, but still useful.
 
+### Model comparison
+
+* [Aki Vehtari's cross-validation FAQ](https://users.aalto.fi/~ave/CV-FAQ.html): great resource about cross-validation and model comparison more broadly. Helps to see the connections between model comparison techniques and make things feel less arbitrary. 
+
 ## General
 
 * [Telling Stories with Data](https://tellingstorieswithdata.com/)
