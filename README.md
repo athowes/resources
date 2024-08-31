@@ -54,6 +54,7 @@
 ### GLMMs
 
 * [Ben Bolker's GLMM FAQ](https://bbolker.github.io/mixedmodels-misc/glmmFAQ.html): from the author of `lme4`.
+* [Ben Bolker's introduction to GLMMs in the context of ecological data](https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347(09)00019-6): Maybe a bit old, but still useful.
 
 ## General
 
