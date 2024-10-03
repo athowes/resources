@@ -81,6 +81,7 @@
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 * [Graph Representation Learning](https://www.cs.mcgill.ca/~wlh/grl_book/)
 * [Advanced Topics in Statistical Machine Learning](http://www.stats.ox.ac.uk/~sejdinov/teaching/atsml19/notes.pdf)
+* [Pen & Paper: Exercises in Machine Learning](https://arxiv.org/pdf/2206.13446): For when I fantasise about undergrad and think that I have more time than I do
 
 ### Blogs, podcasts, YouTube channels
 
