@@ -124,6 +124,10 @@
 * [`pandas`: Comparison with R / R libraries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_r.html)
 * [Primer on Python for R Users](https://rstudio.github.io/reticulate/articles/python_primer.html)
 
+### Make
+
+* [minimal make](https://kbroman.org/minimal_make/)
+
 ### Git
 
 * [Git handout](http://www.tmpl.fi/githandout.pdf)
