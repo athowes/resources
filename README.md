@@ -177,6 +177,10 @@
 
 ## Other
 
+### Code collaboration
+
+* [Tidyteam code review principles](https://code-review.tidyverse.org/)
+
 ### Not being a computer scientist
 
 * [The missing semester of your CS education](https://missing.csail.mit.edu/)
