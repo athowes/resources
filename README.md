@@ -119,6 +119,10 @@
 * [The `hunspell` package: High-Performance Stemmer, Tokenizer, and Spell Checker for R](https://cran.r-project.org/web/packages/hunspell/vignettes/intro.html): I've found it useful to systematically check written documents in RMarkdown for spelling errors using this package.
 * [`styler`](https://github.com/r-lib/styler) and [`lintr`](https://github.com/r-lib/lintr) for code linting
 
+### Databases
+
+* https://solutions.posit.co/connections/db/best-practices/run-queries-safely/
+
 ### Python for R users
 
 * [`pandas`: Comparison with R / R libraries](https://pandas.pydata.org/docs/getting_started/comparison/comparison_with_r.html)
