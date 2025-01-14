@@ -136,6 +136,7 @@
 
 * [Git handout](http://www.tmpl.fi/githandout.pdf)
 * [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+* [So You Think You Know Git (talk)](https://www.youtube.com/watch?v=aolI_Rz0ZqY)
 
 ### DIDE Cluster
 
